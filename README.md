@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prashant Yadav
-- 👀 I’m interested in Software development and Automation. Also I'm good in wireless commucation
+- 👀 I’m interested in Software development and Automation. Also I'm good in wireless communication
 - 🌱 I’m currently working as an intern at MediaTek
 - 💞️ I’m here to contribute in open source projects
 - 📫 mail me at 17mi450@nith.ac.in
