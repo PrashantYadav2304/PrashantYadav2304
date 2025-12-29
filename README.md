@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prashant Yadav
 - 👀 I’m interested in Software development and Automation. Also I'm good in wireless communication
-- 🌱 I’m currently working as an Engineer at Qualcomm, Ex-intern at MediaTek
+- 🌱 I’m currently working as a Senior Engineer at Qualcomm, Ex-intern at MediaTek
 - 📫 mail me at 2000prashant23@gmail.com
 
 <!---
